@@ -45,7 +45,7 @@ const App = {
     const id = document.getElementById("lookid").value;
     star = await lookUptokenIdToStarInfo(id).send({from: this.account});
     App.setStatus("The Star is " + star + ".");
-
+//where is the error?
   }  
   
 
