@@ -6,7 +6,20 @@ It was deployed to Rinkeby Etherreum Blockchain.
 
 In the following I provide the contract address:
 
-   Replacing 'Migrations'
+Token Name: JulianStarToken 
+Token Symbol: JST
+
+Versions used:
+Truffle v5.1.61 (core: 5.1.61)
+Solidity v0.5.16 (solc-js)
+Node v14.15.4
+Web3.js v1.2.9
+
+openzeppelin-solidity@2.1.2
+
+
+
+  Replacing 'Migrations
    ----------------------
    > transaction hash:    0xdbd2cb1c695d16f15c23ca5ca0b98f50732e170c667448bcb908d90c2be75a58
    > Blocks: 2            Seconds: 16
